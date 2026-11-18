@@ -5,9 +5,9 @@ license: "MIT"
 compatibility: "A file-aware agent host with Python 3 execution for the checks; no connectors. The owner participates in choices. Without code execution, checks are manual and recorded as not run. Cross-host conversational behavior has not been validated for this package."
 metadata:
   version: "0.2.0"
-  owner: "Fully Powered AI"
+  owner: "FullyPowered AI"
   effort: "high"
-  produced-by: "Fully Powered AI"
+  produced-by: "FullyPowered AI"
 ---
 
 # brand-workshop
