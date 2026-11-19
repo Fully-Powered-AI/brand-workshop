@@ -47,7 +47,7 @@ We are FullyPowered AI. We build AI workflows for companies, and these are the t
    me to choose.
    ```
 
-2. Read what comes back. It marks what it checked and what is left for you. What a result looks like, for an invented tutoring company:
+2. Read what comes back. It marks what it checked and what is left for you. What a result looks like, for a tutoring company:
 
    ```text
    Tensions (3 of 8 shown)
