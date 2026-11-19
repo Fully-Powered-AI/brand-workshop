@@ -5,7 +5,7 @@ FullyPowered Workflow Templates for owners shaping their brand turn the AI your 
 We are FullyPowered AI. We build AI workflows for companies, and these are the templates we start from. We publish them because a good starting point should be open to everyone. Copy one. Change it. Make it yours.
 
 > [!TIP]
-> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** These are templates, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See more examples for owners shaping their brand](https://fullypowered.ai/functions/marketing-and-content/brand/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=brand-workshop-readme&from=gh-brand-workshop-readme) · [Have one built for your team](https://fullypowered.ai/pricing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=brand-workshop-readme&from=gh-brand-workshop-readme) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** These are templates, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See more examples for owners shaping their brand](https://fullypowered.ai/functions/marketing-and-content/brand/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=brand-workshop-readme&from=gh-brand-workshop-readme) · [Have one built for your team](https://fullypowered.ai/pricing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=brand-workshop-readme&from=gh-brand-workshop-readme). Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
 **Who this is for**
 
@@ -26,16 +26,25 @@ We are FullyPowered AI. We build AI workflows for companies, and these are the t
 1. **Try the first step now.** Copy this into ChatGPT, Claude, Copilot or Gemini. Replace the three bracketed lines with your own answers and send it. This is the purpose step of the workshop, shortened so it fits in a single message.
 
    ```text
-   You are helping me run a brand workshop for my company. Work one step at a time. Never invent facts about my company. If something is missing, ask me.
+   You are helping me run a brand workshop for my company. Work one step at
+   a time. Never invent facts about my company. If something is missing,
+   ask me.
 
    What we sell, and to whom: [your answer]
    How customers handle this problem today: [your answer]
    Why we started the company: [your answer]
 
-   Step 1. List eight tensions my customers live with. A tension is a place where two pressures pull against each other, including assumptions they hold without noticing.
-   Step 2. List five things we deliver when we are at our best, as short plain summaries of what customers get.
-   Step 3. Draft three purpose lines that differ in substance, each starting "We exist to". Under each one, add a line starting "Commits the company to:" that says who it turns away or what we would have to live up to.
-   Step 4. Tell me which one you recommend and why. Then stop and wait for me to choose.
+   Step 1. List eight tensions my customers live with. A tension is a place
+   where two pressures pull against each other, including assumptions they
+   hold without noticing.
+   Step 2. List five things we deliver when we are at our best, as short
+   plain summaries of what customers get.
+   Step 3. Draft three purpose lines that differ in substance, each
+   starting "We exist to". Under each one, add a line starting "Commits the
+   company to:" that says who it turns away or what we would have to live
+   up to.
+   Step 4. Tell me which one you recommend and why. Then stop and wait for
+   me to choose.
    ```
 
 2. Read what comes back. It marks what it checked and what is left for you. What a result looks like, for an invented tutoring company:
